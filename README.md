@@ -90,7 +90,7 @@ This is an example of how to list things you need to use the software and how to
    $ pip install -r requirements.txt
    ```
 4. Edit the `.env.example` file and enter your Google Service Account
-   ```py
+   ```js
   TYPE = "service_account"
   PROJECT_ID = "PROJECT_ID"
   PRIVATE_KEY_ID = "KEY_ID"
