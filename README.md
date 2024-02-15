@@ -92,6 +92,7 @@ This is an example of how to list things you need to use the software and how to
 4. Edit the `.env.example` file and enter your Google Service Account
    ```js
     TYPE = "service_account"
+    PROJECT_ID = "PROJECT_ID"
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
