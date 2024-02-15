@@ -72,7 +72,7 @@ This application uses Google Sheets API, therefore, it needs to configure a Goog
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To install all required packages run the following command:
 * pip
   ```sh
   $ pip install -r requirements.txt
@@ -80,7 +80,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Create a Googleproject [https://developers.google.com/workspace/guides/get-started](https://developers.google.com/workspace/guides/get-started)
+1. Create a Google Cloud project [https://developers.google.com/workspace/guides/get-started](https://developers.google.com/workspace/guides/get-started)
 2. Clone the repo
    ```sh
    git clone https://github.com/JadilsonX/desafio-tunts
