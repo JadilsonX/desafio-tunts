@@ -91,16 +91,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 4. Edit the `.env.example` file and enter your Google Service Account
    ```js
-  TYPE = "service_account"
-  PROJECT_ID = "PROJECT_ID"
-  PRIVATE_KEY_ID = "KEY_ID"
-  PRIVATE_KEY = "-----BEGIN PRIVATE KEY-----\nPRIVATE_KEY\n-----END PRIVATE KEY-----\n"
-  CLIENT_EMAIL = "SERVICE_ACCOUNT_EMAIL"
-  CLIENT_ID = "CLIENT_ID"
-  AUTH_URI = "https://accounts.google.com/o/oauth2/auth"
-  TOKEN_URI = "https://accounts.google.com/o/oauth2/token"
-  AUTH_PROVIDER_URL = "https://www.googleapis.com/oauth2/v1/certs"
-  CLIENT_URL = "https://www.googleapis.com/robot/v1/metadata/x509/SERVICE_ACCOUNT_EMAIL"
+    const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
