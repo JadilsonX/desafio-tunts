@@ -14,6 +14,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#usage">Usage</a></li>
       </ul>
     </li>  
   </ol>
@@ -25,7 +26,7 @@
 
 
 
-Basic application that reads a spreadsheet in Google Sheets and updates it from
+Basic application using Python and Flask that reads and render a spreadsheet from Google Sheets and updates it from
 calculations made with the data received.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -78,6 +79,13 @@ To install all required packages run the following command:
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Usage
+To run the application run the following command:
+* pip
+  ```sh
+  $ flask --app main run
+  ```
 
 
 [Python.py]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
