@@ -1,30 +1,5 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-<!-- PROJECT LOGO -->
-
-
-
-
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -46,7 +21,6 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 
@@ -65,7 +39,6 @@ calculations made with the data received.
 
 
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 This application uses Google Sheets API, therefore, it needs to configure a Google Account Service and get its credentials in order to establish connection to the API.
@@ -89,7 +62,7 @@ To install all required packages run the following command:
    ```sh
    $ pip install -r requirements.txt
    ```
-4. Edit the `.env.example` file and enter your Google Service Account
+4.  Rename the `.env.example` file to `.env`,  and enter your Google Service Account crendentials.
    ```js
     TYPE = "service_account"
     PROJECT_ID = "PROJECT_ID"
