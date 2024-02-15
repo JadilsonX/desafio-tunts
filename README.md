@@ -59,7 +59,7 @@ calculations made with the data received.
 
 
 ### Built With
-* [[!Python][Python.org]]
+* [[!Python][Python-url]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,6 +107,6 @@ This is an example of how to list things you need to use the software and how to
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[Python.py]: https://www.python.org/static/img/python-logo.png
+[Python.py]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/ 
 
