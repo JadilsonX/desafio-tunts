@@ -26,7 +26,7 @@
 
 
 
-Basic application using Python and Flask that reads and render a spreadsheet from Google Sheets and updates it from
+Basic application using Python and Flask that reads data from a Google Sheet spreadsheet, displays it on an HTML page and updates it from
 calculations made with the data received.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
