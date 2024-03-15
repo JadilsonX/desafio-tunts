@@ -57,7 +57,7 @@ To install all required packages run the following command:
 1. Create a Google Cloud project [https://developers.google.com/workspace/guides/get-started](https://developers.google.com/workspace/guides/get-started)
 2. Clone the repo
    ```sh
-   git clone https://github.com/JadilsonX/desafio-tunts
+   git clone https://github.com/JadilsonX/spreadsheet-manager
    ```
 3. Install packages
    ```sh
